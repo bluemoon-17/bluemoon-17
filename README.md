@@ -15,3 +15,9 @@
 <span><img src="https://img.shields.io/badge/DataB-8000FF?style=flat-square&logo=DataB&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/DataA-FF8000?style=flat-square&logo=DataB&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JSP-FF8000?style=flat-square&logo=JSP&logoColor=white"/></span>
+<br>
+<span><img src="https://img.shields.io/badge/3D-FF0000?style=flat-square&logo=3d&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/PhotoGraph-8000FF?style=flat-square&logo=PhotoGraph&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/UIUX-FF8000?style=flat-square&logo=UIUX&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/PhotoShop-FF8000?style=flat-square&logo=PhotoShop&logoColor=white"/></span>
+<br>
