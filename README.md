@@ -5,5 +5,13 @@
 <h1>Nice to meet you!</h1><br>
 #student #University #Inteligence Artificial Software #Seoul Korea<br>
 
-<h2>Styding...</h2><br>
-
+<h2>Studying...</h2>
+<img src="https://img.shields.io/badge/C-8000FF?style=flat-square&logo=C&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-FFBF00?style=flat-square&logo=Python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/HTML5-0101DF?style=flat-square&logo=HTML5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/css3-380B61?style=flat-square&logo=css3&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/JAVA-FF0000?style=flat-square&logo=JAVA&logoColor=white"/><a></a>
+<img src="https://img.shields.io/badge/DataB-8000FF?style=flat-square&logo=DataB&logoColor=white"/>
+<img src="https://img.shields.io/badge/DataA-FF8000?style=flat-square&logo=DataB&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSP-FF8000?style=flat-square&logo=JSP&logoColor=white"/>
